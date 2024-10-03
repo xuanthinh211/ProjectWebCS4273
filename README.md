@@ -9,7 +9,7 @@ Participants:
 
 Task management table: [Thuận và những người bạn](https://trello.com/b/dbwbHkV0/thu%E1%BA%ADn-v%C3%A0-nh%E1%BB%AFng-ng%C6%B0%E1%BB%9Di-b%E1%BA%A1n) [Replace by your public board later]
 
-UI / UX prototype: [here](https://www.figma.com/file/rMh6UpHotHGbgeeqBGvGXe/Untitled?node-id=1%3A2&t=cKDzrVAzZbdU1g4v-0) [Replace by your public prototype later]
+UI / UX prototype: [here]([https://www.figma.com/file/rMh6UpHotHGbgeeqBGvGXe/Untitled?node-id=1%3A2&t=cKDzrVAzZbdU1g4v-0](https://www.figma.com/design/V8T0rzgXj35twxOcvV27Tk/Untitled?node-id=0-1&node-type=canvas&t=VLdIvGdkQUQZXsaO-0)) [Replace by your public prototype later]
 
 Tech stacks:
 
